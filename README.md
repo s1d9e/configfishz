@@ -23,7 +23,7 @@ Example prompt:
 ## Manual Install
  
 Clone the repo:
-git clone https://github.com/YOUR_USERNAME/athena-fish-theme.git
+```git clone https://github.com/YOUR_USERNAME/athena-fish-theme.git```
 cd athena-fish-theme
 cp config.fish ~/.config/fish/config.fish
 source ~/.config/fish/config.fish
