@@ -23,11 +23,19 @@ Example prompt:
 ## Manual Install
  
 Clone the repo:
-```git clone https://github.com/YOUR_USERNAME/athena-fish-theme.git```
-cd athena-fish-theme
-cp config.fish ~/.config/fish/config.fish
-source ~/.config/fish/config.fish
+```git clone https://github.com/s1d9e/configfishz.git```
+go to the repo 
+```cd athena-fish-theme```
+copy / paste the config 
+```cp config.fish ~/.config/fish/config.fish```
+and 
+```source ~/.config/fish/config.fish```
 # or just open a new terminal
+
+## Fast Install 
+copy the code, and paste in 
+```~/.config/fish/config.fish``` 
+by doing ``` nano ~/.config...```
 
 Backup first (optional but smart):
 [ -f ~/.config/fish/config.fish ] && mv ~/.config/fish/config.fish ~/.config/fish/config.fish.bak
