@@ -25,7 +25,7 @@ Example prompt:
 Clone the repo:
 ```git clone https://github.com/s1d9e/configfishz.git```
 go to the repo 
-```cd athena-fish-theme```
+```cd configfishz```
 copy / paste the config 
 ```cp config.fish ~/.config/fish/config.fish```
 and 
