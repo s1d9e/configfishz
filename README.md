@@ -20,7 +20,7 @@ Example prompt:
 - └─λ
 <img width="1915" height="1008" alt="image" src="https://github.com/user-attachments/assets/30b4b5d4-4441-42fc-81cd-ee358d44e1af" />
 
-## Manual Install
+# Manual Install
  
 Clone the repo:
 ```git clone https://github.com/s1d9e/configfishz.git```
@@ -30,9 +30,9 @@ copy / paste the config
 ```cp config.fish ~/.config/fish/config.fish```
 and 
 ```source ~/.config/fish/config.fish```
-# or just open a new terminal
+## or just open a new terminal
 
-## Fast Install 
+# Fast Install 
 copy the code, and paste in 
 ```~/.config/fish/config.fish``` 
 by doing ``` nano ~/.config...```
@@ -40,7 +40,7 @@ by doing ``` nano ~/.config...```
 Backup first (optional but smart):
 [ -f ~/.config/fish/config.fish ] && mv ~/.config/fish/config.fish ~/.config/fish/config.fish.bak
 
-## Compatibility
+# Compatibility
 Fish ≥ 3.4 (tested on 3.6+ / 4.x)
 Best with truecolor terminals (enable with export TERM=xterm-256color or better)
 Works in tmux, but enable truecolor in tmux.conf if needed
