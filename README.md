@@ -55,4 +55,7 @@ Best with truecolor terminals (enable with export TERM=xterm-256color or better)
 Works in tmux, but enable truecolor in tmux.conf if needed
 No issues reported on Linux/macOS; Windows WSL should be fine too
 
-if you have any problem, dm me on discord : s1d9e
+#if you have any problem, dm me on discord : s1d9e
+
+<img width="1915" height="1008" alt="image" src="https://github.com/user-attachments/assets/30b4b5d4-4441-42fc-81cd-ee358d44e1af" />
+
